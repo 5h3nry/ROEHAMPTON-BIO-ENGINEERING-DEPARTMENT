@@ -1,4 +1,4 @@
 $(document).ready(function () {
-  $("#title").focus();
+  $("#text").title();
   $("#text").autosize();
 });
